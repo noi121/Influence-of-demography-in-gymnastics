@@ -13,7 +13,7 @@ Two external datasets were reused and processed to produce two cleaned datasets:
 
 The project aims to support transparent, FAIR data practices, reproducibility, and reuse.
 
-Produced datasets and source code are available with documentation under the following DOI persistent identifier: [DOI from Test TU Wien].
+Produced datasets and source code are available with documentation under the following DOI persistent identifier: 10.70124/ss6ae-53p30.
 
 ---
 
